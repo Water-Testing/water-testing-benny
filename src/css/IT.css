@@ -1,0 +1,58 @@
+
+
+.body{
+   background-color: rgba(0,0,0,0.04);
+}
+
+
+tbody {
+    background-color: white;
+    
+}
+
+
+tfoot{
+    background-color: white;
+    
+}
+
+table{   
+    border-style: solid;
+    border-width: 60px;
+    border-color: rgba(0,0,0,0.04);
+    background-color: rgba(0,0,0,0.04);
+
+}
+
+.optionsCard{
+    border-style: solid;
+    border-width: 30px;
+    border-color: rgba(0,0,0,0.04);
+    background-color: rgba(0,0,0,0.04);
+    border-radius: 30px;
+
+}
+
+svg{
+    color: black;
+}
+
+.firstCol{
+    background-color: white;
+    border-top-left-radius: 25px;
+
+}
+
+.secondCol {
+    background-color: white;
+    border-top-right-radius: 25px;
+}
+
+td{
+    height: 80px;
+}
+
+button{
+    font-size: 13px  !important;
+    color: black;
+}

@@ -1,0 +1,27 @@
+.main-cart{
+    width: 1500px;
+}
+
+.uk-divider-small{
+    width: 300px !important;
+}
+
+form{
+    border-top-style: solid;
+    border-top-color: rgba(0, 0, 0, 0.1);
+    border-top-width: 1px; 
+
+    border-bottom-style: solid;
+    border-bottom-color: rgba(0, 0, 0, 0.1);
+    border-bottom-width: 1px; 
+}
+
+.Third-Cart-Row * {
+    width: 100% !important;
+}
+
+.quantity{
+    width: 100px !important;
+}
+
+

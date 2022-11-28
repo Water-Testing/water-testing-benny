@@ -1,0 +1,45 @@
+.signBox{  
+    border-width: 1px;
+    width: 100%;
+    background-color: #344892;
+    
+}
+
+.uk-button {
+    background-color: transparent !important;
+    font-size: 10px;
+}
+
+.form{
+
+    background-color: white;
+    border-radius: 15px;
+}
+
+
+.form-rightSide * {
+    color: gray;
+    
+}
+
+.form-rightSide{
+
+  
+}
+
+.form-leftSide{
+       background-color: white;
+}
+
+.form-image *{ 
+width: 100%;
+height: auto;
+
+
+}
+
+.forgot-section * {
+    font-size: 11px;
+}
+
+

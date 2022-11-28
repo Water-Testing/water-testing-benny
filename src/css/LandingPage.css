@@ -1,0 +1,220 @@
+.Main-Header{
+    background-image: url(../Images/Water\ Testing\ Header-1.png);
+    background-repeat: no-repeat;
+    background-size: 2000px 900px;
+    height: 1000px;
+}
+
+
+.Logo {
+    width: 100px;
+    height: 80px;
+    padding: 10%;
+    margin-top: 5%;
+}
+
+.bi *{
+    color: gray!important;
+}
+
+.leftSide{
+    margin-top: -1% !important;
+}
+
+
+.WaterTestingHeader {
+    height: 800px;
+    width: 100%;
+}
+
+.uk-navbar-container {
+    background-color: white !important;
+    height: 80px;
+
+}
+
+.uk-navbar-right {
+    margin-right: 3%;
+}
+
+.uk-text-capitalize {
+    color: gray !important;
+    font-size: 15px !important;
+    text-decoration: none !important;
+    font-weight: lighter !important;
+}
+.uk-text-capitalize:hover *{
+    text-decoration: none;
+}
+
+
+.uk-button {
+    background-color: white !important;
+}
+
+li * {
+    color: black !important;
+}
+
+.secondSectionLogo {
+    width: 150px;
+    height: 150px;
+}
+
+.Section-Background{
+  
+    background-image: url(../Images/watertestlog-3.png);
+    background-size: 1600px 2000px;
+    background-repeat: no-repeat;
+}
+
+.thirdSection {
+    padding: 10%;
+    margin-top: -10%;
+}
+
+.secondSectionText {
+    color: #140f07 !important;
+    font-family: 'Times New Roman';
+}
+
+
+.LogoSpacing * {
+    margin-top: -3%;
+}
+
+
+.middle{   
+    border-radius: 80px;
+    background-color: #344892;
+}
+
+.mid-section{
+    border-radius: 100px;
+    height: 450px;
+    width: 700px;
+    
+}
+
+.orgs{
+    width: 170px;
+    height: 150px;
+    padding: 20px;
+  
+}
+
+.basicKitLogo{
+    width: 165px;
+    height: 165px;
+    padding: 10px;
+    margin-top: 5%;
+}
+
+.kitLogoBackground{
+    background-color: #344892;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+
+.kitLogoBackground * {
+    color: white !important;
+}
+.Kits{
+
+background-image: url(../Images/watertestlog-4.png);
+background-size: 2000px 2900px;
+background-repeat: no-repeat;
+margin-top: -4%;
+}
+.x{
+width: 400px;
+}
+.y{
+    width: 400px;
+}
+
+.BuyKits{
+    border-radius: 30px;
+    height: 700px;
+}
+.Testing-Kit-Text{
+    font-size: 18px !important;
+    color: white !important;
+}
+
+.Tiny-Text{
+    font-size: 10px;
+    word-spacing: 10px;
+
+}
+
+.Tiny-Text-Two{
+    font-size: 15px;
+    word-spacing: 6px;
+     color: white !important;   
+}
+.bi-arrow-right-circle{
+   padding: 5%;
+}
+
+.CDC{
+    width: 300px;
+    height: 200px;
+}
+
+.EPA{
+    width: 175px;   
+    height: 175px;
+}
+
+.ATS{
+    width: 230px;
+    height: 150px;
+    margin-top: 4%;
+}
+
+.Values{
+    font-size: 55px !important;
+    font-family:'Times New Roman', Times, serif;
+    color: black;
+}
+
+.Values-Sub{
+    font-size: 20px;
+    font-family: serif;
+}
+
+.Header-Text{
+
+    font-size: 55px;
+}
+
+footer{
+    background-color: #6773e8;
+}
+
+.What-We-Do{
+    border-radius: 50px;
+}
+
+.Research-Side{
+    background-image: url(../Images/watertestlog-6.png);
+    border-radius: 50px;
+}
+
+.uk-list{
+    color: white;
+}
+
+.uk-button {
+    border-radius: 10px !important;
+}
+
+.cross-price{
+    text-decoration: line-through;
+}
+
+.Cart-Icon * {
+    width: 27px !important;
+    height: 27px !important;
+}
