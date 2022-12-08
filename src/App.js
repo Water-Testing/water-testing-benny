@@ -9,6 +9,7 @@ import Creditcardregistration from './Pages/Navigation-Pages/creditcardregistrat
 import Navbar from './Pages/NavBars/Navbar.js';
 import ITDash from './Pages/Dashboards/IT_Department.js';
 import IT from './Pages/NavBars/ITnavbar.js';
+import EmpLogin from './Pages/EmployeeLogin.js';
 import { BrowserRouter, Routes, Route, Router, Link } from 'react-router-dom';
 
 
@@ -20,9 +21,10 @@ export class App extends React.Component {
       <BrowserRouter>
         <Routes>
           <Route index element={<LandingPage />} />
-          <Route path="login" element={<LogPage />} />
+          <Route path="login" element={<ITDash/>} />
           <Route path="register" element={<Registered />} />
           <Route path="/cart" element={<CartPage />} />
+          <Route path="employeeLogin" element={<EmpLogin/>}/>
           <Route path="register/finaccreg" element={<Creditcardregistration/>}/>
           {/* <Route path="ITDash" element={<ITDash/>}/> */}
         </Routes>

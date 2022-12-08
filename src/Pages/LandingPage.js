@@ -277,20 +277,20 @@ export class LandingPage extends React.Component {
                         </div>
                         <div>
                             <ul className="uk-list">
-                                <li className="uk-text-bolder uk-text-large">Support</li>
-                                <li className="uk-text-small">Contact Us</li>
-                                <li className="uk-text-small">Customer Portal</li>
-                                <li className="uk-text-small"> Paid Support</li>
-                                <li className="uk-text-small">Security Information</li>
+                                <a><li className="uk-text-bolder uk-text-large">Support</li></a>
+                                <a><li className="uk-text-small">Contact Us</li></a>
+                                <a><li className="uk-text-small">Customer Portal</li></a>
+                                <a><li className="uk-text-small"> Paid Support</li></a>
+                                <a><li className="uk-text-small">Security Information</li></a>
                             </ul>
                         </div>
                         <div>
                             <ul className="uk-list">
-                                <li className="uk-text-bolder uk-text-large">Social</li>
-                                <li className="uk-text-small">Youtube</li>
-                                <li className="uk-text-small">LinkedIn</li>
-                                <li className="uk-text-small">Facebook</li>
-                                <li className="uk-text-small">Instagram</li>
+                                <a><li className="uk-text-bolder uk-text-large">Social</li></a>
+                                <a><li className="uk-text-small">Youtube</li></a>
+                                <a><li className="uk-text-small">LinkedIn</li></a>
+                                <a><li className="uk-text-small">Facebook</li></a>
+                                <a><li className="uk-text-small">Instagram</li></a>
                             </ul>
                         </div>
                     </div>
